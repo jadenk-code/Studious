@@ -1,7 +1,7 @@
 ### Assignment #1 - Scope and Vision
-| Task                                                                                    | Person Responsible| Due Date  |
-|-----------------------------------------------------------------------------------------|------------------|------------|
-| - Cover Page <br> - Opportunity <br> - Vision Statement                                 | Name             | Sept 16    |
-| - Major features <br> - Scope of releases (initial and future) <br> - Vision Statement  | Name             | Sept 16    |
-| - Technology planned & Operating Environment <br> - Assumptions and dependencie         | Name             | Sept 16    |
-| - Competitive analysis                                                                  | Name             | Sept 16    |
+| ID | Task                                                                                    | Person Responsible| Due Date  |
+|----|-----------------------------------------------------------------------------------------|------------------|------------|
+| 1  | - Cover Page <br> - Opportunity <br> - Vision Statement                                 | Name             | Sept 16    | 
+| 2  | - Major features <br> - Scope of releases (initial and future) <br> - Vision Statement  | Name             | Sept 16    |
+| 3  | - Technology planned & Operating Environment <br> - Assumptions and dependencie         | Name             | Sept 16    |
+| 4  | - Competitive analysis                                                                  | Name             | Sept 16    |
