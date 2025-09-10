@@ -5,4 +5,5 @@
 | 2  | - Major features <br> - Scope of releases (initial and future) <br> - Vision Statement  | Name             | Sept 16    |
 | 3  | - Technology planned & Operating Environment <br> - Assumptions and dependencie         | Name             | Sept 16    |
 | 4  | - Competitive analysis                                                                  | Name             | Sept 16    |
+
 **Check Chain: 1 → 2 → 3 → 4 → 1**
