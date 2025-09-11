@@ -1,5 +1,5 @@
-### Potential Features
-##### Core features / for initial release
+# Potential Features
+## Core features / for initial release
 *Note: This is our goal for the end of the semester*
 - Join and create study groups
 	- Essentially chat rooms with the ability to text
@@ -28,7 +28,7 @@
 	- Similar to calendar but a list view of upcoming assignments
 
 
-##### Potential Features
+## Potential Features
 *Note: These are features that wouldnt be too difficult to implement but are not the main focus/core features of the platorm*
 - Podoromo Timer
 - Quiz creation
@@ -36,7 +36,7 @@
 - Assignment tracking?
 	- Will let users designate work to certain individuals in the group with an interactive page that lets users check things off the lsit
 
-**Ideal Features / for future releases?**
+## Ideal Features / for future releases
 *Note: Some of these will be difficult to implement and we realistically wont be able to accomplish it this semester*
 - Blackboard API support
 	- Tie into blackboard API that allows users to
