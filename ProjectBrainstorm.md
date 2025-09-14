@@ -54,6 +54,6 @@
 		- Digital whiteboard thing?
 	- "4 People in this study circle right now, would you like to join"
 
-#Cover Letter
+ **Cover Letter**
 
 
