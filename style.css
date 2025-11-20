@@ -1,0 +1,158 @@
+body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #0b1220; 
+      color: #e5e7eb; 
+    }
+
+.app {
+      display: flex;
+      height: 100vh; 
+    }
+
+.sidebar {
+      width: 260px;
+      background-color: #020617; 
+      padding: 20px;
+      box-sizing: border-box;
+      border-right: 1px solid #1f2937; 
+      display: flex;
+      flex-direction: column;
+    }
+
+    .app-name {
+      font-size: 14px;
+      letter-spacing: 0.25em;
+      font-weight: bold;
+      margin-bottom: 24px;
+      color: #cfe0ff;
+    }
+
+    .sidebar-label {
+      font-size: 12px;
+      color: #9ca3af; 
+      margin-bottom: 6px;
+    }
+
+    .group-list {
+      margin-bottom: 16px;
+    }
+
+    .group-item {
+      background-color: #111827; 
+      border-radius: 10px;
+      padding: 10px 12px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      border: 1px solid #1f2937;
+      font-size: 14px;
+      color: #cfe0ff;
+    }
+
+    .group-avatar {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background-color: #374151; 
+    }
+
+    
+    .group-status {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background-color: #60a5fa; 
+      margin-left: auto;
+    }
+
+    
+    .add-partner-btn {
+      margin-top: 10px;
+      padding: 8px 12px;
+      font-size: 13px;
+      border-radius: 8px;
+      border: 1px solid #1d4ed8; 
+      background-color: #1e293b; 
+      color: #4f8cff;
+      cursor: pointer;
+    }
+
+    .settings {
+      margin-top: auto;
+      font-size: 12px;
+      color: #6b7280;
+    }
+
+    .main {
+      flex: 1;
+      padding: 24px;
+      box-sizing: border-box;
+      display: flex;
+      flex-direction: column;
+      background-color: #020617;
+    }
+
+    .main-header {
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 16px;
+      color: #cfe0ff;
+    }
+
+    .chat-empty-space {
+      flex: 1;
+    }
+
+    .composer {
+      background-color: #0f172a;
+      border-radius: 12px;
+      border: 1px solid #1f2937;
+      padding: 10px;
+      display: flex;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+
+    .composer-input {
+      flex: 1;
+      background: none;
+      border: none;
+      outline: none;
+      color: #e5e7eb;
+      font-size: 14px;
+    }
+
+    .composer-input::placeholder {
+      color: #6b7280; 
+    }
+
+    .composer-send {
+      background-color: #1d4ed8;
+      border: none;
+      color: #e5e7eb;
+      padding: 6px 10px;
+      border-radius: 8px;
+      font-size: 12px;
+      cursor: pointer;
+    }
+
+    .action-row {
+      display: flex;
+      gap: 8px;
+    }
+
+    .action-btn {
+      background-color: #111827;
+      border-radius: 10px;
+      border: 1px solid #1f2937;
+      padding: 8px 12px;
+      font-size: 13px;
+      color: #4f8cff;
+      cursor: pointer;
+    }
+
+
+
+
+
